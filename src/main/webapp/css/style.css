@@ -13,6 +13,10 @@ ul li a {
 }
 h2{
     margin: 20px;
+	font-size: 30px;
+}
+p {
+	font-size: 20px;
 }
 img {
     display: block;

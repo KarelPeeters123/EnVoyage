@@ -14,6 +14,9 @@
 			<li><a href="Controller?command=information">Information</a></li>
 			<li><a href="Controller?command=pictures">Pictures</a></li>
 			<li><a href="Controller?command=contact">Contact</a></li>
+
+		</ul>
+		<ul class="nav navbar-nav navbar-right">
 			<li class="dropdown">
 				<a class="dropdown-toggle" data-toggle="dropdown" href="#">Language
 					<span class="caret"></span></a>
