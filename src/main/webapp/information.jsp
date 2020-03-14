@@ -4,9 +4,9 @@
     <head>
         <meta charset="UTF-8">
         <title>En voyage</title>
-        <link rel="stylesheet" href="${pageContext.request.contextPath}/css/reset.css">
+        <link rel="stylesheet" href="https://about.borlyt-salnus.lu/EnVoyage/src/main/webapp/css/reset.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-        <link rel="stylesheet" href="${pageContext.request.contextPath}/css/style.css">
+        <link rel="stylesheet" href="https://about.borlyt-salnus.lu/EnVoyage/src/main/webapp/css/style.css">
     </head>
 
     <body class="row">
@@ -57,8 +57,8 @@
                 </article>
                 <br>
                 <div class="">
-                    <img class="img-rounded img-responsive Fotos-Information" src="/./img/IMG_4498.jpg" width="400px" alt="">
-                    <img class="img-rounded img-responsive Fotos-Information" src="/./img/IMG_4545.jpg" width="400px" alt="">
+                    <img class="img-rounded img-responsive Fotos-Information" src="https://about.borlyt-salnus.lu/EnVoyage/src/main/webapp/img/IMG_4498.jpg" width="400px" alt="">
+                    <img class="img-rounded img-responsive Fotos-Information" src="https://about.borlyt-salnus.lu/EnVoyage/src/main/webapp/img/IMG_4545.jpg" width="400px" alt="">
                 </div>
             </div>
         </div>

@@ -4,22 +4,22 @@
 		<div class="col-sm-1 col-sm-offset-2"><button class="display-left btn" id="left-button" onclick="plusDivs(-1)">&#10094;</button></div>
 
 		<div class="col-sm-6">
-			<img class="mySlides img-rounded img-responsive" src="${pageContext.request.contextPath}/img/IMG_4460.jpg" style="width:80%">
-			<img class="mySlides img-rounded img-responsive" src="${pageContext.request.contextPath}/img/IMG_4461.jpg" style="width:80%">
-			<img class="mySlides img-rounded img-responsive" src="${pageContext.request.contextPath}/img/IMG_4466.jpg" style="width:80%">
-			<img class="mySlides img-rounded img-responsive" src="${pageContext.request.contextPath}/img/IMG_4494.jpg" style="width:80%">
-			<img class="mySlides img-rounded img-responsive" src="${pageContext.request.contextPath}/img/IMG_4498.jpg" style="width:80%">
-			<img class="mySlides img-rounded img-responsive" src="${pageContext.request.contextPath}/img/IMG_4521.jpg" style="width:80%">
-			<img class="mySlides img-rounded img-responsive" src="${pageContext.request.contextPath}/img/IMG_4525.jpg" style="width:80%">
-			<img class="mySlides img-rounded img-responsive" src="${pageContext.request.contextPath}/img/IMG_4527.jpg" style="width:80%">
-			<img class="mySlides img-rounded img-responsive" src="${pageContext.request.contextPath}/img/IMG_4529.jpg" style="width:80%">
-			<img class="mySlides img-rounded img-responsive" src="${pageContext.request.contextPath}/img/IMG_4536.jpg" style="width:80%">
-			<img class="mySlides img-rounded img-responsive" src="${pageContext.request.contextPath}/img/IMG_4676.jpg" style="width:80%">
-			<img class="mySlides img-rounded img-responsive" src="${pageContext.request.contextPath}/img/IMG_4681.jpg" style="width:80%">
-			<img class="mySlides img-rounded img-responsive" src="${pageContext.request.contextPath}/img/IMG_6416.jpg" style="width:80%">
-			<img class="mySlides img-rounded img-responsive" src="${pageContext.request.contextPath}/img/IMG_6417.jpg" style="width:80%">
-			<img class="mySlides img-rounded img-responsive" src="${pageContext.request.contextPath}/img/IMG_6418.jpg" style="width:80%">
-			<img class="mySlides img-rounded img-responsive" src="${pageContext.request.contextPath}/img/Image 24-06-2019 at 20.32.jpg" style="width:80%">
+			<img class="mySlides img-rounded img-responsive" src="https://about.borlyt-salnus.lu/EnVoyage/src/main/webapp/img/IMG_4460.jpg" style="width:80%">
+			<img class="mySlides img-rounded img-responsive" src="https://about.borlyt-salnus.lu/EnVoyage/src/main/webapp/img/IMG_4461.jpg" style="width:80%">
+			<img class="mySlides img-rounded img-responsive" src="https://about.borlyt-salnus.lu/EnVoyage/src/main/webapp/img/IMG_4466.jpg" style="width:80%">
+			<img class="mySlides img-rounded img-responsive" src="https://about.borlyt-salnus.lu/EnVoyage/src/main/webapp/img/IMG_4494.jpg" style="width:80%">
+			<img class="mySlides img-rounded img-responsive" src="https://about.borlyt-salnus.lu/EnVoyage/src/main/webapp/img/IMG_4498.jpg" style="width:80%">
+			<img class="mySlides img-rounded img-responsive" src="https://about.borlyt-salnus.lu/EnVoyage/src/main/webapp/img/IMG_4521.jpg" style="width:80%">
+			<img class="mySlides img-rounded img-responsive" src="https://about.borlyt-salnus.lu/EnVoyage/src/main/webapp/img/IMG_4525.jpg" style="width:80%">
+			<img class="mySlides img-rounded img-responsive" src="https://about.borlyt-salnus.lu/EnVoyage/src/main/webapp/img/IMG_4527.jpg" style="width:80%">
+			<img class="mySlides img-rounded img-responsive" src="https://about.borlyt-salnus.lu/EnVoyage/src/main/webapp/img/IMG_4529.jpg" style="width:80%">
+			<img class="mySlides img-rounded img-responsive" src="https://about.borlyt-salnus.lu/EnVoyage/src/main/webapp/img/IMG_4536.jpg" style="width:80%">
+			<img class="mySlides img-rounded img-responsive" src="https://about.borlyt-salnus.lu/EnVoyage/src/main/webapp/img/IMG_4676.jpg" style="width:80%">
+			<img class="mySlides img-rounded img-responsive" src="https://about.borlyt-salnus.lu/EnVoyage/src/main/webapp/img/IMG_4681.jpg" style="width:80%">
+			<img class="mySlides img-rounded img-responsive" src="https://about.borlyt-salnus.lu/EnVoyage/src/main/webapp/img/IMG_6416.jpg" style="width:80%">
+			<img class="mySlides img-rounded img-responsive" src="https://about.borlyt-salnus.lu/EnVoyage/src/main/webapp/img/IMG_6417.jpg" style="width:80%">
+			<img class="mySlides img-rounded img-responsive" src="https://about.borlyt-salnus.lu/EnVoyage/src/main/webapp/img/IMG_6418.jpg" style="width:80%">
+			<img class="mySlides img-rounded img-responsive" src="https://about.borlyt-salnus.lu/EnVoyage/src/main/webapp/img/Image 24-06-2019 at 20.32.jpg" style="width:80%">
 		</div>
 
 
